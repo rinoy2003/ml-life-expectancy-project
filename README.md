@@ -1,2 +1,24 @@
-# ml-life-expectancy-project
-Machine Learning project using Linear Regression to predict life expectancy using world bank dataset
+# ML Life Expectancy Prediction Project
+
+This project uses Machine Learning (Linear Regression) to predict life expectancy
+using World Bank Development Indicators dataset.
+
+## Features
+- Data Cleaning
+- Feature Selection
+- Linear Regression Model
+- Model Evaluation (R2 Score, MSE)
+- Data Visualization
+
+## Tools Used
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Scikit-learn
+
+## Dataset
+World Bank Development Indicators
+
+## Author
+Rinoy Jerome
