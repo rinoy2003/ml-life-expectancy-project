@@ -27,10 +27,10 @@ Rinoy Jerome
 ## Output Graphs
 
 ### GDP vs Life Expectancy
-![EDA](eda_gdp_vs_life.png)
+![EDA](./eda_gdp_vs_life.png)
 
 ### Log GDP vs Life Expectancy
-![LOG](log_gdp_plot.png)
+![LOG](./log_gdp_plot.png)
 
 ### Prediction Result
-![Result](prediction_result.png)
+![Result](./prediction_result.png)
